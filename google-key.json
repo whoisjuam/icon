@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "remax-kscd",
+    "private_key_id": "8c69d1219b2ce7e78466b63d9e1e2679ee077af3",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkpU7ulKpS8PKO\nZtg/2/CSa5mzrDL4pzT9Ldv7t/sM3pufjNS0ciklqi6biAGpIzcYRwSuSnduDkzk\n0ZyOrEj0zVNr1KMa9KRLQOZFZFwFwdhGOBxNIeakJ5yQJJNJBhiD/mDrmMC/J5mG\nsQEgId1D5IZUZVWA+OviJ90f3sykhhpoJ3BXpb7FBXX5pgEBUDhMrcrn/ii91rNO\nAWODAkX0AbPJOO9tJq2s2kEGXeSXDyxZl6/raICQHHfgEKpkS3+LMHDP855eU4Sw\ntQZJEpjZV++rOTKhe7Xvp04NEjaNzVAA5pOu2E9gWpmVQhmZcQ/2KqM4EJ3P4yAz\nBSs577i7AgMBAAECggEAC5fdmExnjIeNd3F5G1Cv/ooNEesM0RgU/G7U5UNDLi4j\n5HbU02U7zdHPOQG5UYuP6ZRhQ/8tAawyxeSXPYSWw9thWwpnTGfwLvcBlTPyjC/m\nEVZfcnRHT++/b8w42BTRzRmFrDveoUHMkatiWjzdiQD3ucxDhQgCCV6n4gKc2PNr\new4jE6hIBMH94f2rum88eIooG3lrH1b7KR1o1IjQa9C81mhjP+Cz+d7JUVt6Nq92\n4fFNdYXfhYjdgJxYoiEigSouEOPG6T+GvQv8lT1kRsBJRdD6HHShiNj74b6W5H3V\nOr/COWhiR7eoqY3KRICHaXXdVSTET1dg2bvJrk5GwQKBgQDRJBSPtbHmLN2m103/\nojtQ0v+kuxgrVCKRechiJpZxnk87UY/g9Qmw/MOSJr/k/h/Lg7yFN9UWZ+3l1lL0\naPcxYfdA48tQMwR6O8TIkT09H8KURaTlv3gltiq0ucvEunKKtFKFafoPNwmRNYU0\n51d5Gj2S5GV7tQ21TbPhN3MgAwKBgQDJiRG5Qa7aT9olKKfeTiBuCKkoTc2Vq0UK\n98TqxGbSFLCVzkgkRlYGFjtXgquh1cp0p4rfLBrwN9dqrf5KABzxWkyu5s207TBr\nUmSAOG0z2Ui5z2AVZu2053coq4daNQZaT3tx1oM26O58zgjeDzef668ldmP4YaMu\n67eeN00y6QKBgGcrz2DdlzcfZvDJQdcb5vsGO8q96Txmsu7lDu8sbgb6u8ddgwbM\nms1OxAOzTfLfUjwJbtShKGN3PaqmQiIELf2UgG7ocQHNSSYrmfX/gCBJLKoMeT5F\naDXiWcrx5Q3VlG/MaPEbyJn84qFZr67beRFq2nk+ZrnSJUMNY/F0czyVAoGAcEB3\nbb9G+/QUJjRR5AGSEJekWH2Vb7LYnvZIaRcByiuZ+6bNCd9fVL6XSPPQUzC4NmeH\ncyymyHvh8Vp+U4tik4/fPF/z3b1rBav7rGtBb+qrlksKUoFlDykJds6rcjQsmKrC\nsDJyHWh6RWuhBsZlDh8BDBW4MwV3FdBXErnsttkCgYEAwmLdGUR2CUaIfXhVJdzd\nntmIzJe+QgtdQSqYK/WtHvuO03/EG3UK0SsHeIoOevsPqXSSXbcKPSCS4SrjBxjl\nhzXz4VNe6iqNqQeIMVa3qaCYXWGvGalT0P66ZlapRFEpid9FKnEsi9WL0gHZU4PB\nCr4qYwJeFtb73EKDCwERqZE=\n-----END PRIVATE KEY-----\n",
+    "client_email": "remaxbot@remax-kscd.iam.gserviceaccount.com",
+    "client_id": "117435551809176136967",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/remaxbot%40remax-kscd.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
